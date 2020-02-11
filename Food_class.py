@@ -5,4 +5,5 @@ class Food():
         if ingredients is None:
             ingredients = []
         else:
-        self.ingredients = ingredients
+            self.ingredients = ingredients
+
