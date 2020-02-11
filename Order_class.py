@@ -1,2 +1,2 @@
 class Orders():
-    pass
+    def __init__(self):
